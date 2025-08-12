@@ -1,4 +1,4 @@
----
+333---
 title: Configure third-party tool use
 description: Overview of CodeRabbit's supported linters and security analysis tools.
 ---
